@@ -1,0 +1,21 @@
+/* Enter your custom styles here */
+ .ClassForLabel{
+	font-size: x-large;
+    font-weight: bolder;
+}
+ .ClassForLabelUserName{
+    font-weight: bolder;
+}
+.BackgroundForBar{
+	background-color: #0854a045 !important;
+}
+.ContainerCSS{
+display: contents;
+}
+.ReadOnly{
+	enabled : false;
+}
+.sapMPage sapMPageBgStandard sapMPageWithHeader sapMPageBusyCoversAll sapMNavItem .vLayoutPageScanReview{
+		background-color: red !important;
+	
+}
